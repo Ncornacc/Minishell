@@ -29,5 +29,13 @@ make
 # Run
 ./minishell
 ```
+## Demo
+[![minishell](/minishell.png)](https://github.com/MichelleJiam/minishell)
 
-![minishell](/minishell.png)(https://github.com/MichelleJiam/minishell)
+## Resources
+[bash repo](https://github.com/bminor/bash)
+[man pages for bash commands](https://man7.org/linux/man-pages/dir_all_by_section.html)
+[shell operators](https://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
+[environment variable naming conventions](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap08.html)
+[process statuses](https://www.gnu.org/software/libc/manual/html_node/Process-Completion-Status.html)
+[special exit codes (version-dependant)](https://tldp.org/LDP/abs/html/exitcodes.html#EXITCODESREF)
