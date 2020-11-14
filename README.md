@@ -31,7 +31,7 @@ make
 ./minishell
 ```
 ## Demo
-[![minishell](/minishell.png)](https://github.com/MichelleJiam/minishell)
+[![minishell](/minishell.png)](https://github.com/MichelleJiam/minishell | width=500)
 
 ## Resources
 [bash repo](https://github.com/bminor/bash)
