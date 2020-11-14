@@ -4,6 +4,7 @@
 Writing our own simple little shell in C.
 
 The shell takes single-line inputs and replicates bash behaviour.
+
 It supports:
 * redirections - ```<```, ```>```, and ```>>```.
 * pipes - ```|```
