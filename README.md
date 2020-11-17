@@ -1,7 +1,7 @@
 # minishell
-42/Codam minishell, a group project to make a simple shell based on bash
+42/Codam minishell, a simple shell based on bash
 ## Description
-Writing our own simple little shell in C.
+A collaborative group project that has us writing our own simple little shell in C.
 
 The shell takes single-line inputs and replicates bash behaviour.
 
