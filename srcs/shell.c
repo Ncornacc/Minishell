@@ -6,7 +6,7 @@
 /*   By: totartar <totartar@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2020/11/04 18:28:26 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/10 13:34:26 by totartar      ########   odam.nl         */
+/*   Updated: 2020/11/14 20:49:16 by mjiam         ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,8 +42,7 @@ void	run_shell(t_shell **shell)
 
 void	prompt(void)
 {
-	if (isatty(STDIN_FILENO))
-		ft_putstr_fd("$>", STDOUT_FILENO);
+	ft_putstr_fd("minishell$> ", STDOUT_FILENO);
 }
 
 void	update_status(t_shell **shell)
