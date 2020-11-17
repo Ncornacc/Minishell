@@ -10,6 +10,7 @@ It supports:
 * pipes - ```|```
 * separating semicolons - ```;```
 * single and double quotes - ```'``` ```"```
+* escape character - ```\```
 * environment variables - ```$```
 * ```ctrl-C```, ```ctrl-D```, and ```ctrl-\```
 
