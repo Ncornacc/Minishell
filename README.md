@@ -45,4 +45,6 @@ make
 
 [process statuses](https://www.gnu.org/software/libc/manual/html_node/Process-Completion-Status.html)
 
+[pipes, forks and dups - data flows](http://www.rozmichelle.com/pipes-forks-dups)
+
 [special exit codes (version-dependant)](https://tldp.org/LDP/abs/html/exitcodes.html#EXITCODESREF)
