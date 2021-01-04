@@ -39,12 +39,14 @@ make
 
 [man pages for bash commands](https://man7.org/linux/man-pages/dir_all_by_section.html)
 
-[shell operators](https://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
+[a guide to writing your own shell from *Introduction to Systems Programming*](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf)
+
+[pipes, forks, and dups - data flows explained](http://www.rozmichelle.com/pipes-forks-dups)
+
+[an explanation of shell operators](https://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators)
 
 [environment variable naming conventions](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap08.html)
 
 [process statuses](https://www.gnu.org/software/libc/manual/html_node/Process-Completion-Status.html)
-
-[pipes, forks and dups - data flows](http://www.rozmichelle.com/pipes-forks-dups)
 
 [special exit codes (version-dependant)](https://tldp.org/LDP/abs/html/exitcodes.html#EXITCODESREF)
