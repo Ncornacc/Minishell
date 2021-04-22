@@ -17,7 +17,7 @@
 **	if output is not assigned, assigns process output to write end of pipe.
 **	else closes unused write end of pipe.
 **	input for the next process after the pipe is assigned to read end of pipe.
-**	if output is not assigned, separator is changed to a semicolon,
+**	if output is assigned, separator is changed to a semicolon,
 **	making next process wait and preventing simultaneous execution that would
 **	throw an error in case of input like "ls > file | cat < file"
 */
