@@ -3,12 +3,13 @@
 /*                                                        ::::::::            */
 /*   env_flags.c                                        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:35:28 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 11:48:06 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:12 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:15 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "minishell.h"
 

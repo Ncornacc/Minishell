@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   escape_characters.c                                :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:39:43 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/04 17:35:19 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:19:16 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:19:19 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

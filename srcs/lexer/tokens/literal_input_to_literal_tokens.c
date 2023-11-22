@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   literal_input_to_literal_tokens.c                  :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/02 14:57:26 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 12:38:02 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:19:50 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:19:52 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   handle_env.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:38:18 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 11:44:48 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:48 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:51 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

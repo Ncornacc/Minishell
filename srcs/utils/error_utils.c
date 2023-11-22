@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   error_utils.c                                      :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/14 13:44:28 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 18:23:45 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:12:21 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:12:23 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

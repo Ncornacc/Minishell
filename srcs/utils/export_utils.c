@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   export_utils.c                                     :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/05 19:14:52 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/05 19:15:16 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:14:51 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:14:54 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

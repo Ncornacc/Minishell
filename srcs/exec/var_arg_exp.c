@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   var_arg_exp.c                                      :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 18:00:20 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/04 18:00:22 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:21:10 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:21:12 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

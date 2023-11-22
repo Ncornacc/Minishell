@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   exec_utils.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 17:37:51 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/03 22:53:43 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:14:43 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:14:45 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

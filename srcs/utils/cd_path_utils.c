@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   cd_path_utils.c                                    :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/09 04:33:19 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/09 05:07:35 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:11:22 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:11:24 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,12 +3,13 @@
 /*                                                        ::::::::            */
 /*   echo.c                                             :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/15 16:25:23 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/03 21:43:53 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:21:44 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:21:46 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "minishell.h"
 

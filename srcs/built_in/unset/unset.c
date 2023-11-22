@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   unset.c                                            :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/15 19:49:26 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/03 21:42:55 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:22:09 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:22:11 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

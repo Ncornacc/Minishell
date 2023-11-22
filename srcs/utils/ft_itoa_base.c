@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_itoa_base.c                                     :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 22:26:28 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/03 22:58:35 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:15:07 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:15:12 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

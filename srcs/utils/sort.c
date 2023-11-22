@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   sort.c                                             :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/07/20 19:01:46 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/06 21:16:43 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:26 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:29 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

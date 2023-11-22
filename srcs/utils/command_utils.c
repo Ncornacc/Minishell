@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   command_utils.c                                    :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/14 17:12:44 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/06 22:40:12 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:11:54 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:11:57 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

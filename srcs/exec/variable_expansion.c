@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   variable_expansion.c                               :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 10:53:06 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/04 17:51:10 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:21:22 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:21:24 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

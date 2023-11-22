@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   push_pop_env.c                                     :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 22:01:18 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 18:40:40 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:05 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:10 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

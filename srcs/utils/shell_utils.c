@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   shell_utils.c                                      :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/19 19:59:19 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 18:24:17 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:12 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:16 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

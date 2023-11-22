@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   process_io.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 19:55:50 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/03 21:29:16 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:21:05 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:21:07 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

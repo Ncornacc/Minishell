@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   env_strcat.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:41:42 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/04 17:34:14 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:43 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:45 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

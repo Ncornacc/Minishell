@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   check_path.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/02 20:45:44 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/10 11:12:19 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:20:40 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:20:42 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

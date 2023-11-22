@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   env_utils.c                                        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/07/22 14:02:48 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 18:39:56 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:14:33 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:14:36 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

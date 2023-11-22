@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   trim_input.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 13:56:26 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 12:18:43 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:19:38 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:19:40 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

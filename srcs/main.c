@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   main.c                                             :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 18:33:37 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/09 20:29:03 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:10:50 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:10:53 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

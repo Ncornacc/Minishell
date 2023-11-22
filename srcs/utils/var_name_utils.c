@@ -3,12 +3,13 @@
 /*                                                        ::::::::            */
 /*   var_name_utils.c                                   :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 15:50:05 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/04 17:34:44 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:48 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:51 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "minishell.h"
 

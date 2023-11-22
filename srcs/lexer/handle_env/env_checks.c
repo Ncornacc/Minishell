@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   env_checks.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:54:21 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/09 05:51:59 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:07 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:09 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

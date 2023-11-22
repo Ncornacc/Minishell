@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   env_home.c                                         :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:40:42 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/04 17:32:38 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:18 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:22 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

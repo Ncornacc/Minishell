@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   pwd.c                                              :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/07/20 19:47:44 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 14:49:01 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:22:05 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:22:06 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

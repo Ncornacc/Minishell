@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   lexer.c                                            :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 18:27:37 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 12:14:23 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:20:07 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:20:10 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

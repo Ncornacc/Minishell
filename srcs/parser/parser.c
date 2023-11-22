@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   parser.c                                           :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/30 17:17:05 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 20:32:59 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:00 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:02 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

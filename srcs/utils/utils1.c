@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   utils1.c                                           :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/03 22:42:09 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/05 19:21:34 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:31 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:33 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_atoi.c                                          :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/01 17:22:26 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/01 17:31:28 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:14:58 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:15:01 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

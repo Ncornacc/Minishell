@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   shell.c                                            :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 18:28:26 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/14 20:49:16 by mjiam         ########   odam.nl         */
+/*   Created: 2023/11/22 11:10:37 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:10:43 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

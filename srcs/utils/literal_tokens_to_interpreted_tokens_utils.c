@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        ::::::::            */
-/*   literal_tokens_to_interpreted_tokens_uti           :+:    :+:            */
+/*   literal_tokens_to_interpreted_tokens_utils.        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <totartar@student.codam.nl>         +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:10:54 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 11:49:10 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:15:43 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:15:47 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   signal_utils.c                                     :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: mjiam <mjiam@student.codam.nl>               +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/10/26 13:33:04 by mjiam         #+#    #+#                 */
-/*   Updated: 2020/11/09 18:26:02 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:16:18 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:16:21 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

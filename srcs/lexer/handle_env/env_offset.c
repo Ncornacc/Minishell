@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   env_offset.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/11/04 14:32:51 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/06 12:10:47 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:18:24 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:18:26 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

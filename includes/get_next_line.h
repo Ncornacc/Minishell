@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   get_next_line.h                                    :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: totartar <marvin@codam.nl>                   +#+                     */
+/*   By: ncornacc <ncornacc@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2019/11/29 20:40:24 by totartar      #+#    #+#                 */
-/*   Updated: 2020/11/04 13:30:51 by totartar      ########   odam.nl         */
+/*   Created: 2023/11/22 11:22:30 by ncornacc      #+#    #+#                 */
+/*   Updated: 2023/11/22 11:22:34 by ncornacc      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
